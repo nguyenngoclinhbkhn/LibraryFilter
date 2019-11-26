@@ -215,6 +215,10 @@ public class FilterConfig {
         new ProcessFilter(listener, config).execute(bitmap);
     }
 
+    public Bitmap processBitmap(Bitmap bitmap, String config){
+        return CGENativeLibrary.filterImage_MultipleEffects(bitmap, config, 1);
+    }
+
     public class ProcessFilter extends AsyncTask<Bitmap, Void, Bitmap> {
         private String config;
         private OnBitmapListener listener;
