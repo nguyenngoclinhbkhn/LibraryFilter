@@ -1,8 +1,6 @@
 + import module LibraryFilter
 
-+  	import 
-	implementation 'androidx.recyclerview:recyclerview:1.0.0'
-	implementation 'androidx.cardview:cardview:1.0.0'
++  	import RecyclerView and CardView
 	in build.gradle (level app) in your project
 	
 + in method onCreate() in your activity
