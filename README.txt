@@ -1,6 +1,6 @@
 + import module LibraryFilter
 
-+  	import RecyclerView and CardView
++  	import RecyclerView
 	in build.gradle (level app) in your project
 	
 + in method onCreate() in your activity
