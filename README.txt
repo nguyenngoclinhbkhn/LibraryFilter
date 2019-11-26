@@ -8,4 +8,5 @@
 + Decalred AdapterFilter to apply your RecyclerView
 + Implement Method onFilterClicked(), onBitmapReturn()
 + in method onFilterClicked, we will process bitmap with filterConfig.processFilter(bitmap, filter.getConfig());
++ if you want to git bitmap , use method filterConfig.processBitmap(Bitmap bitmap, String config);
 + and we will be have a bitmapReturn in method onBitmapReturn()
