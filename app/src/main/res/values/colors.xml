@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff0404</color>
+    <color name="colorPrimaryDark">#fc0303</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorGray">#565050</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorNearBlack">#211e1e</color>
+    <color name="colorRed">#f90202</color>
+    <color name="colorNearGray">#595959</color>
+    <color name="colorText">#4959A7</color>
+    <color name="colorYellow">#ffcc00</color>
+    <color name="colorNearWhite">#c2c2c2</color>
+    <color name="colorTransparent">#00ff0000 </color>
+    <color name="ucrop_color_toolbar">#211e1e</color>
+    <color name="color_special">#484545</color>
+    <color name="color_text">#a69791</color>
+    <color name="transparency">#80000000</color>
+    <color name="colorFrame">#2b2222</color>
+    <color name="colorNew">#E6524A4A</color>
+    <color name="colorVote">#00D5CDCD</color>
+    <color name="colorAd">#43CFB8B8</color>
+
+    <color name="colorLightDark">#c2baba</color>
+
+</resources>
